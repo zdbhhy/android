@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">餐厅订餐</string>
+    <string name="title_activity_ding">餐厅订餐-确认订单</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_diqu">餐厅订餐-店铺选择</string>
+    <string name="title_activity_map">餐厅订餐</string>
+    <string name="title_activity_canting">餐厅订餐-餐厅详情</string>
+    <string name="title_activity_cantingjianjie">餐厅订餐-餐厅简介</string>
+    <string name="title_activity_diancai">餐厅订餐-点菜</string>
+    <string name="title_activity_register">餐厅订餐-用户登录</string>
+    <string name="title_activity_star">餐厅订餐</string>
+    <string name="title_activity_star_textview1">餐厅订餐</string>
+    <string name="title_activity_star_textview2">Restaurant Reservations System beta1.0</string>
+    <string name="title_activity_star_textview3">该客户端系统为android4.0 版本1.0 Copyright:2013 开源dtcms后台管理系统 作者:彭浩</string>
+    <string name="title_activity_usercenter">餐厅订餐-个人中心</string>
+    <string name="title_activity_about">关于餐厅订餐</string>
+    <string name="button_submit">确认下单</string>
+    <string name="title_activity_jindian">餐厅订餐-经典菜品</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_article">餐厅订餐-活动详情</string>
+    <string name="title_activity_submit">餐厅订餐-提交订单</string>
+    <string name="about"><Data>
+<![CDATA[2000年5月20日，俏江南首家餐厅在北京CBD国际贸易中心开业。<br />
+<br />
+2002年，俏江南走出北京，在上海淮海路的时代广场开设了第一家北京以外区域的餐厅，从此开启了跨区域连锁经营的步伐。<br />
+<br />
+历经多年的积累和发展，截至2012年9月底，俏江南集餐厅已遍布中国十五个省份、十八个城市，拥有近70家餐厅，成为国内领先的中式正餐连锁经营企业。<br />
+<br />
+“时尚、经典、品位、尊崇”的经营理念，是俏江南独具特色的企业精神。弘扬中华五千年的餐饮文化，致力于打造一个世界级的中餐品牌是俏江南持久追求的目标。 ]]>
+</Data></string>
+    <string name="title_activity_help">餐厅订餐-帮助</string>
+    <string name="help"><Data>
+<![CDATA[ <p>● 系统概述</p>
+<p>正餐版解决方案是紫光移动应用依据正餐行业的发展需求及管理特点，为正餐企业设计的一款信息化管理软件，对正餐工作流程进行规范化、对企业管理进行精细化，对经营效益进行数据化。系统经过多年的实际应用和升级改进，功能完善、稳定高效，成为正餐企业搭建信息化管理平台的首选。</p>
+<p> </p>
+<p>● 功能模块</p>
+<p><br />
+</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td valign="middle" width="50"><p>序号</p></td>
+      <td valign="middle" width="89"><p>功能模块</p></td>
+      <td valign="middle" width="493" colspan="3"><p>功能简要说明</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" rowspan="7" width="50"><p>1</p></td>
+      <td valign="middle" rowspan="7" width="89"><p>基础信息</p></td>
+      <td valign="middle" width="152" colspan="2"><p>人员设置</p></td>
+      <td valign="middle" width="341"><p>收款员、服务员等权限设置</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>桌帐设置</p></td>
+      <td valign="middle" width="341"><p>桌账名称、分类等设置</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>餐品设置</p></td>
+      <td valign="middle" width="341"><p>菜品分类、菜品设置、口味设置、套餐设置等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>收银设置</p></td>
+      <td valign="middle" width="341"><p>付款方式、加收项目、退菜等设置</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>点菜机设置</p></td>
+      <td valign="middle" width="341"><p>设置功能项及资料导入等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>会员设置</p></td>
+      <td valign="middle" width="341"><p>会员卡类型设置、会员升级设置</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>费用设置</p></td>
+      <td valign="middle" width="341"><p>费用类型设置，如：工资、房租等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" rowspan="4" width="50"><p>2</p></td>
+      <td valign="middle" rowspan="4" width="89"><p>营业管理</p></td>
+      <td valign="middle" width="152" colspan="2"><p>前台营业管理</p></td>
+      <td valign="middle" width="341"><p>预订管理、外卖管理、收银管理等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>前台营业</p></td>
+      <td valign="middle" width="341"><p>开台、点菜、下单、结账、收银等操作</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>后厨管理</p></td>
+      <td valign="middle" width="341"><p>热菜、凉菜、面点、饮品窗口等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="152" colspan="2"><p>费用管理</p></td>
+      <td valign="middle" width="341"><p>费用登记、费用查询等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="50"><p>3</p></td>
+      <td valign="middle" width="89"><p>会员管理</p></td>
+      <td valign="middle" width="493" colspan="3"><p>办卡、开卡、充值、积分返还、退款、续卡、挂失、解挂、换卡、注销、退卡、合并、升级</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="50"><p>4</p></td>
+      <td valign="middle" width="89"><p>无线点菜</p></td>
+      <td valign="middle" width="493" colspan="3"><p>开台、点菜、退菜、查询、下单、传菜、催菜、账单汇总、结算</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" rowspan="3" width="50"><p>5</p></td>
+      <td valign="middle" rowspan="3" width="89"><p>进销存管理</p></td>
+      <td valign="middle" width="129"><p>采购管理</p></td>
+      <td valign="middle" width="364" colspan="2"><p>供应商管理、采购进货管理、采购退货管理。</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="129"><p>库存管理</p></td>
+      <td valign="middle" width="364" colspan="2"><p>库存查询、存货毁损缺失登记、存货盘存、库存预警</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="129"><p>物料分析</p></td>
+      <td valign="middle" width="364" colspan="2"><p>物料管理、菜品配料设置、物料数据分析、物料消耗分析</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" rowspan="5" width="50"><p>6</p></td>
+      <td valign="middle" rowspan="5" width="89"><p>数据中心</p></td>
+      <td valign="middle" width="129"><p>营业数据统计分析</p></td>
+      <td valign="middle" width="364" colspan="2"><p>营业流水统计、前台营业汇总、营业数据汇总、菜品销售排行、服务员销售记录查询及汇总</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="129"><p>进货数据统计分析</p></td>
+      <td valign="middle" width="364" colspan="2"><p>进货记录查询、应付预警报告等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="129"><p>库存数据统计分析</p></td>
+      <td valign="middle" width="364" colspan="2"><p>库存统计报告、库存预警报告、盘存记录查询、缺失毁损查询等</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="129"><p>会员数据统计分析</p></td>
+      <td valign="middle" width="364" colspan="2"><p>会员基本信息查询、会员消费查询、会员积分查询、会员卡操作记录、积分、余额</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="129"><p>利润数据统计分析</p></td>
+      <td valign="middle" width="364" colspan="2"><p>毛利统计、时段报表</p></td>
+    </tr>
+    <tr>
+      <td valign="middle" width="50"><p>7</p></td>
+      <td valign="middle" width="89"><p>系统设置</p></td>
+      <td valign="middle" width="493" colspan="3"><p>系统参数设置、打印机设置、工作站设置、数据备份与恢复、清除历史数据、分店数据回传</p></td>
+    </tr>
+  </tbody>
+</table>
+<p> </p>
+<p><strong>● 系统特色</strong></p>
+<p>  ◇ 均衡的格局呈现：合理的模块布局，前台营业多功能嵌入，后台管理灵活设置；</p>
+<p>  ◇ 组合的点菜方式：支持触摸屏、平板电脑（安卓、微软、苹果三大操作系统）和点菜宝；</p>
+<p>  ◇ 便捷的功能设计：支持换台、并台、口味添加、套餐组合、整单备注、催菜叫起、单品变价等操作；</p>
+<p>  ◇ 专业的营业管理：支持预定、外卖、来电显示、优惠折扣、前台报表查询及打印功能；</p>
+<p>  ◇ 高效的后厨打印：支持多线程、分单厨打，全程厨打监控，避免漏单、错单、延误现象；</p>
+<p>  ◇ 多样的客户管理：支持积分卡、会员卡、储值卡、贵宾卡等多种优惠折扣方式设置，灵活的升级规则设置；</p>
+<p>  ◇ 丰富的报表查询：营业数据、进货数据、库存数据、会员数据、员工数据、分店数据的精确统计，实时的报表分析，丰富的时段报表生成。</p>
+<p><br />
+</p>
+<p>● 硬件配置</p>
+<p>  ◇ 数据服务器</p>
+<p>  ◇ Pad/触摸屏/点菜宝</p>
+<p>  ◇ 收银打印机</p>
+<p>  ◇ 后厨打印机</p>
+<p>  ◇ 无线路由/基站 </p>
+<p>  ◇ 仓库电脑</p>
+<p>  ◇ 经理查询电脑</p>
+<p>  ◇ 连锁VPN软件客户端</p> ]]>
+</Data></string>
+    <string name="title_activity_lianxiren">推荐给朋友</string>
+    <string name="tuijian">推荐</string>
+    <string name="title_activity_dmanager">餐厅订餐-订单管理</string>
+    <string name="title_activity_system">餐厅订餐-系统设置</string>
+    <string name="item_dmanager_view1">客户信息：</string>
+    <string name="item_dmanager_view2">联系方式：</string>
+    <string name="item_dmanager_view3">用餐人数：</string>
+    <string name="item_dmanager_view4">就餐地点：</string>
+    <string name="item_dmanager_view5">到店时间：</string>
+    <string name="item_dmanager_view6">共点菜数：</string>
+    <string name="item_dmanager_view7">总计金额：</string>
+    <string name="item_dmanager_view8">特殊要求：</string>
+    <string name="title_activity_dinglike">餐厅订餐-我的喜欢</string>
+    <string name="title_activity_jindianbutton1">点菜</string>
+    <string name="title_activity_jindianbutton2">喜欢</string>
+    <string name="title_activity_usermemo">3333</string>
+    <string name="ssss">123</string>
+
+</resources>
